@@ -6,7 +6,7 @@ Nesse código-fonte encontramos três funções principais:
 * Extrato
 
 O sistema flui de forma simples, porém, precisa.
-Em próximas versões estarei incluindo funções mais complexas.
+Em próximas versões incluirei funções mais complexas.
 Caso tenha alguma sugestão ou dúvida, por favor entre em contato, obrigado!
 
 https://www.linkedin.com/in/andersontiberioj/
